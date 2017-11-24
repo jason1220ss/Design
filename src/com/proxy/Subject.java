@@ -9,6 +9,6 @@ package com.proxy;/*
  * @Description: (描述此类的功能)
  * @date 2017-11-23 17:21
  */
-public abstract class Subject {
-	public abstract void request();
+public interface Subject {
+	void request();
 }

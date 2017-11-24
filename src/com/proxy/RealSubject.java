@@ -10,7 +10,7 @@ package com.proxy;
  * @Description: (描述此类的功能)
  * @date 2017-11-23 17:22
  */
-public class RealSubject extends Subject {
+public class RealSubject implements Subject {
 
 	@Override
 	public void request() {

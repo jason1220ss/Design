@@ -10,7 +10,7 @@ package com.proxy;
  * @Description: (描述此类的功能)
  * @date 2017-11-23 17:24
  */
-public class ProxySubject extends Subject {
+public class ProxySubject implements Subject {
 
 	/**
 	 * 代理角色内部引用真实角色
