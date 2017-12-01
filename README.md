@@ -7,6 +7,10 @@
 ### 二、Abstract Factory 抽象工厂模式
 
 ### 三、Singleton 单例模式
+#### 1、Eager Singleton : 饿汉式单例模式
+#### 2、Lazy Singleton : 懒汉式单例模式
+#### 3、Double check and lock ：双重检查加锁式单例模式
+#### 4、Lazy initialization holder class模式
 
 ### Strange 策略模式
 
